@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/neon-nyan/CollapseLauncher-Page/main/images/NewBannerv2_color.webp"/>
+</p>
+
+##### GI Nahida Background Credit: [Rafa on Pixiv](https://www.pixiv.net/en/users/3970196)
+
 # Hello There! 👋
 
 This is the home directory for the project [Collapse Launcher](https://github.com/CollapseLauncher/Collapse), an advanced 3rd party launcher for miHoYo/Cognosphere games.
