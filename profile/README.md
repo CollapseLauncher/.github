@@ -8,7 +8,7 @@
 
 This is the home directory for the project [Collapse Launcher](https://github.com/CollapseLauncher/Collapse), an advanced 3rd party launcher for miHoYo/Cognosphere games.
 
-Project Details : [English](https://github.com/CollapseLauncher/Collapse/blob/main/README.md) [Japanese](https://github.com/CollapseLauncher/Collapse/blob/main/README.ja-jp.md)
+Project Details : [English](https://github.com/CollapseLauncher/Collapse/blob/main/README.md) [Japanese](https://github.com/CollapseLauncher/Collapse/blob/main/README.ja-jp.md) [Bahasa Indonesia](https://github.com/CollapseLauncher/Collapse/blob/main/README.id-id.md)
 
 Initially created by @neon-nyan
 
