@@ -8,9 +8,9 @@
 
 This is the home directory for the project [Collapse Launcher](https://github.com/CollapseLauncher/Collapse), an advanced 3rd party launcher for miHoYo/Cognosphere games.
 
-Project Details : [English](https://github.com/CollapseLauncher/Collapse/blob/main/README.md) [Japanese](https://github.com/CollapseLauncher/Collapse/blob/main/README.ja-jp.md) [Bahasa Indonesia](https://github.com/CollapseLauncher/Collapse/blob/main/README.id-id.md)
+Project Details : [![en](https://img.shields.io/badge/README-English-blue.svg)](https://github.com/CollapseLauncher/Collapse/blob/main/README.md) [![jp](https://img.shields.io/badge/README-Japanese_日本語-white.svg)](https://github.com/neon-nyan/Collapse/blob/main/README.ja-jp.md) [![id](https://img.shields.io/badge/README-Bahasa_Indonesia-red.svg)](https://github.com/neon-nyan/Collapse/blob/main/README.id-id.md)
 
-Initially created by @neon-nyan
+Initially created by [@neon-nyan](https://github.com/neon-nyan/)
 
 ### Supported Games and Regions
 1. Honkai Impact 3rd
