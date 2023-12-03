@@ -8,9 +8,15 @@
 
 This is the home directory for the project [Collapse Launcher](https://github.com/CollapseLauncher/Collapse), an advanced 3rd party launcher for miHoYo/Cognosphere games.
 
-Project Details : [![en](https://img.shields.io/badge/README-English-blue.svg)](https://github.com/CollapseLauncher/Collapse/blob/main/README.md) [![jp](https://img.shields.io/badge/README-Japanese_日本語-white.svg)](https://github.com/neon-nyan/Collapse/blob/main/README.ja-jp.md) [![id](https://img.shields.io/badge/README-Bahasa_Indonesia-red.svg)](https://github.com/neon-nyan/Collapse/blob/main/README.id-id.md)
-
 Initially created by [@neon-nyan](https://github.com/neon-nyan/)
+
+Project Details : 
+
+[![en](https://img.shields.io/badge/README-English-blue.svg)](https://github.com/CollapseLauncher/Collapse/blob/main/README.md) [![jp](https://img.shields.io/badge/README-Japanese_日本語-white.svg)](https://github.com/neon-nyan/Collapse/blob/main/README.ja-jp.md) [![id](https://img.shields.io/badge/README-Bahasa_Indonesia-red.svg)](https://github.com/neon-nyan/Collapse/blob/main/README.id-id.md)
+
+
+[![GitHub all releases](https://img.shields.io/github/downloads/CollapseLauncher/Collapse/total)](https://github.com/CollapseLauncher/Collapse/releases/latest)
+[![Discord](https://img.shields.io/badge/Join_Community-Discord-5865F2)](https://discord.gg/vJd2exaS7j)
 
 ### Currently Supported Games and Regions
 1. Honkai Impact 3rd
@@ -53,13 +59,15 @@ This project **IS NOT AFFILIATED** with [**miHoYo (miHoYo Co., Ltd.)**](https://
 
 1. JetBrains for providing complete .NET suite and Qodana for our internal use
 <p align=center>
-    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/ReSharper_icon.png" alt="ReSharper logo." width=80p />
-    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Qodana_icon.png" alt="Qodana logo." width=80p />
+    <a  href="https://jb.gg/OpenSourceSupport">
+        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/ReSharper_icon.png" alt="ReSharper logo." width=80p />
+        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Qodana_icon.png" alt="Qodana logo." width=80p />
+    </a>
 </p>
 
 2. Transifex for their translation platform
 <p align=center>
     <a href="https://explore.transifex.com/collapse-launcher/collapse-mainapp/" target="_blank">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Transifex_logo.svg" alt="Collapse Launcher Localization at Crowdin" height=50/>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Transifex_logo.svg" alt="Collapse Launcher Localization at Transifex" height=50/>
 	</a>
 </p>
