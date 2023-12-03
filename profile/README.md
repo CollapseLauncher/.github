@@ -28,7 +28,13 @@ Initially created by [@neon-nyan](https://github.com/neon-nyan/)
 5. Game region conversion (HI3 Global <=> SEA and Steam => Global)
 
 ## GitHub Stars History
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX3c1T3NuVkc3aW45WVgwZ0NxZmVkMkQ2N3ZlblhYbTFFYmlRNg==#collapselauncher/collapse&Date" frameBorder="0"></iframe>
+<a href="https://star-history.com/#collapselauncher/collapse&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=collapselauncher/collapse&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=collapselauncher/collapse&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=collapselauncher/collapse&type=Date" />
+  </picture>
+</a>
 
 ## Disclaimer
 This project **IS NOT AFFILIATED** with [**miHoYo (miHoYo Co., Ltd.)**](https://www.mihoyo.com/) or [**HoYoverse (COGNOSPHERE PTE. LTD.)**](https://www.hoyoverse.com/en-us) by any means and is completely open-sourced. Any contributions are welcomed! 😃
