@@ -12,13 +12,13 @@ Project Details : [![en](https://img.shields.io/badge/README-English-blue.svg)](
 
 Initially created by [@neon-nyan](https://github.com/neon-nyan/)
 
-### Supported Games and Regions
+### Currently Supported Games and Regions
 1. Honkai Impact 3rd
     > Global, SEA, Mainland China, TW/HK/MO, Korea, and Japan
 2. Genshin Impact
-    > Global, Mainland China
+    > Global, Mainland China, Bilibili
 3. Honkai: Star Rail
-    > Global, Mainland China
+    > Global, Mainland China, Bilibili
 
 ### List of Features
 1. Game installation, preload, update, and patch (smaller update for Honkai Impact 3rd available)
@@ -27,14 +27,33 @@ Initially created by [@neon-nyan](https://github.com/neon-nyan/)
 4. Discord Rich Presence (RPC)
 5. Game region conversion (HI3 Global <=> SEA and Steam => Global)
 
+## GitHub Stars History
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX3c1T3NuVkc3aW45WVgwZ0NxZmVkMkQ2N3ZlblhYbTFFYmlRNg==#collapselauncher/collapse&Date" frameBorder="0"></iframe>
+
 ## Disclaimer
 This project **IS NOT AFFILIATED** with [**miHoYo (miHoYo Co., Ltd.)**](https://www.mihoyo.com/) or [**HoYoverse (COGNOSPHERE PTE. LTD.)**](https://www.hoyoverse.com/en-us) by any means and is completely open-sourced. Any contributions are welcomed! 😃
 
 ## Related Repositories
-1. [neon-nyan/CollapseLauncher-ReleaseRepo](https://github.com/neon-nyan/CollapseLauncher-ReleaseRepo) : Holds our base files (updates, metadata, etc) to be uploaded to other provider(s).
-2. [neon-nyan/ApplyUpdate](https://github.com/neon-nyan/ApplyUpdate)     : Simple app to force update Collapse or switch its branch.
-3. [neon-nyan/Hi3Helper.SharpHDiffPatch](https://github.com/neon-nyan/Hi3Helper.SharpHDiffPatch) : C# version of [HDiffPatch by sisong](https://github.com/sisong/HDiffPatch), handles patching for games.
-4. [neon-nyan/Hi3Helper.EncTool](https://github.com/neon-nyan/Hi3Helper.EncTool) : Handles repair and cache checking function.
-5. [neon-nyan/Hi3Helper.Http](https://github.com/neon-nyan/Hi3Helper.Http) : Multisession download and stream manager.
-6. [neon-nyan/ColorThief](https://github.com/neon-nyan/ColorThief) : Forked from [KSemenenko/ColorThief](https://github.com/KSemenenko/ColorThief), C# library to grab color pallete from an image.
-7. [neon-nyan/SevenZipExtractor](https://github.com/neon-nyan/SevenZipExtractor) : Forked from [adoconnection/SevenZipExtractor](https://github.com/adoconnection/SevenZipExtractor), C# wrapper for 7z.dll to handle package extractions.
+1. [CollapseLauncher/CollapseLauncher-ReleaseRepo](https://github.com/CollapseLauncher/CollapseLauncher-ReleaseRepo) : Holds our base files (updates, metadata, etc) to be uploaded to other provider(s).
+2. [CollapseLauncher/ApplyUpdate](https://github.com/CollapseLauncher/ApplyUpdate)     : Simple app to force update Collapse or switch its branch.
+3. [CollapseLauncher/Hi3Helper.SharpHDiffPatch](https://github.com/CollapseLauncher/Hi3Helper.SharpHDiffPatch) : C# version of [HDiffPatch by sisong](https://github.com/sisong/HDiffPatch), handles patching for games.
+4. [CollapseLauncher/Hi3Helper.EncTool](https://github.com/CollapseLauncher/Hi3Helper.EncTool) : Handles repair and cache checking function.
+5. [CollapseLauncher/Hi3Helper.Http](https://github.com/CollapseLauncher/Hi3Helper.Http) : Multisession download and stream manager.
+6. [CollapseLauncher/ColorThief](https://github.com/CollapseLauncher/ColorThief) : Forked from [KSemenenko/ColorThief](https://github.com/KSemenenko/ColorThief), C# library to grab color pallete from an image.
+7. [CollapseLauncher/SevenZipExtractor](https://github.com/CollapseLauncher/SevenZipExtractor) : Forked from [adoconnection/SevenZipExtractor](https://github.com/adoconnection/SevenZipExtractor), C# wrapper for 7z.dll to handle package extractions.
+
+## Special Thanks
+> The teams over at Collapse are really thankful for all of our users and contributors that has been keeping this project alive and well. We are also giving our outmost gratitude for these company/organization for providing their service for us.
+
+1. JetBrains for providing complete .NET suite and Qodana for our internal use
+<p align=center>
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/ReSharper_icon.png" alt="ReSharper logo." width=80p />
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Qodana_icon.png" alt="Qodana logo." width=80p />
+</p>
+
+2. Transifex for their translation platform
+<p align=center>
+    <a href="https://explore.transifex.com/collapse-launcher/collapse-mainapp/" target="_blank">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Transifex_logo.svg" alt="Collapse Launcher Localization at Crowdin" height=50/>
+	</a>
+</p>
