@@ -12,7 +12,7 @@ Initially created by [@neon-nyan](https://github.com/neon-nyan/)
 
 Project Details : 
 
-[![en](https://img.shields.io/badge/README-English-blue.svg)](https://github.com/CollapseLauncher/Collapse/blob/main/README.md) [![jp](https://img.shields.io/badge/README-Japanese_日本語-white.svg)](https://github.com/neon-nyan/Collapse/blob/main/README.ja-jp.md) [![id](https://img.shields.io/badge/README-Bahasa_Indonesia-red.svg)](https://github.com/neon-nyan/Collapse/blob/main/README.id-id.md)
+[![en](https://img.shields.io/badge/README-English-blue.svg)](https://github.com/CollapseLauncher/Collapse/blob/main/README.md) [![jp](https://img.shields.io/badge/README-Japanese_日本語-white.svg)](https://github.com/neon-nyan/Collapse/blob/main/README.ja-jp.md) [![id](https://img.shields.io/badge/README-Bahasa_Indonesia-red.svg)](https://github.com/neon-nyan/Collapse/blob/main/README.id-id.md) [![fr](https://img.shields.io/badge/README-French-cyan.svg)](https://github.com/neon-nyan/Collapse/blob/main/README.fr-fr.md)
 
 
 [![GitHub all releases](https://img.shields.io/github/downloads/CollapseLauncher/Collapse/total)](https://github.com/CollapseLauncher/Collapse/releases/latest)
