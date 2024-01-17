@@ -85,3 +85,6 @@ This project **IS NOT AFFILIATED** with [**miHoYo (miHoYo Co., Ltd.)**](https://
 - This program will not transfer any information to other networked systems.
 - Read our full [**Privacy Policy**](PRIVACY.md)
 - Also read our [**Third Party Notices**](THIRD_PARTY_NOTICES.md) for license used by third party libraries that we use.
+
+[SignPath Foundation]:https://signpath.org
+[SignPath.io]:https://signpath.io
