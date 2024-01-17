@@ -71,3 +71,17 @@ This project **IS NOT AFFILIATED** with [**miHoYo (miHoYo Co., Ltd.)**](https://
        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Transifex_logo.svg" alt="Collapse Launcher Localization at Transifex" height=50/>
 	</a>
 </p>
+
+3. SignPath Foundation for providing us free code signing!
+<p align=center>
+	<a href="https://signpath.org/about/">
+ 		<img src="https://pbs.twimg.com/media/EKY08ToXsAAJh-Y.png" alt="SignPath Logo" height=50 />
+	</a>
+</p>
+
+
+# Code Signing Policy
+> Free code signing provided by [SignPath.io], certificate by [SignPath Foundation]
+- This program will not transfer any information to other networked systems.
+- Read our full [**Privacy Policy**](PRIVACY.md)
+- Also read our [**Third Party Notices**](THIRD_PARTY_NOTICES.md) for license used by third party libraries that we use.
