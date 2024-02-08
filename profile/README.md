@@ -83,8 +83,8 @@ This project **IS NOT AFFILIATED** with [**miHoYo (miHoYo Co., Ltd.)**](https://
 # Code Signing Policy
 > Free code signing provided by [SignPath.io], certificate by [SignPath Foundation]
 - This program will not transfer any information to other networked systems.
-- Read our full [**Privacy Policy**](PRIVACY.md)
-- Also read our [**Third Party Notices**](THIRD_PARTY_NOTICES.md) for license used by third party libraries that we use.
+- Read our full [**Privacy Policy**](https://github.com/CollapseLauncher/Collapse/blob/main/PRIVACY.md)
+- Also read our [**Third Party Notices**](https://github.com/CollapseLauncher/Collapse/blob/main/THIRD_PARTY_NOTICES.md) for license used by third party libraries that we use.
 
 [SignPath Foundation]:https://signpath.org
 [SignPath.io]:https://signpath.io
