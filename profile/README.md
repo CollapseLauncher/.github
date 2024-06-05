@@ -89,3 +89,24 @@ This project **IS NOT AFFILIATED** with [**miHoYo (miHoYo Co., Ltd.)**](https://
 
 [SignPath Foundation]:https://signpath.org
 [SignPath.io]:https://signpath.io
+
+# FOSSA Analysis For Key Projects
+<p align="center" style="vertical-align: top;">
+    <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FCollapseLauncher%2FCollapse?ref=badge_large&issueType=license" target="_blank" style="display: inline-block; vertical-align: top;">
+        <img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FCollapseLauncher%2FCollapse.svg?type=large&issueType=license" alt="Collapse FOSSA Status" width=280/>
+    </a>
+    &nbsp;
+    <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FCollapseLauncher%2FSharpHDiffPatch.Core?ref=badge_large&issueType=license" target="_blank" style="display: inline-block; vertical-align: top;">
+        <img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FCollapseLauncher%2FSharpHDiffPatch.Core.svg?type=large&issueType=license" alt="SharpHDiffPatch FOSSA Status" width=280/>
+    </a>
+    &nbsp;
+    <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FCollapseLauncher%2FHi3Helper.Sophon?ref=badge_large&issueType=license" target="_blank" style="display: inline-block; vertical-align: top;">
+        <img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FCollapseLauncher%2FHi3Helper.Sophon.svg?type=large&issueType=license" alt="Sophon FOSSA Status" width=280/>
+    </a>
+</p>
+
+
+
+
+
+
