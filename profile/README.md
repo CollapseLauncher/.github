@@ -1,6 +1,6 @@
 <p align="center">
   <img width="512px" height="auto" src="https://raw.githubusercontent.com/CollapseLauncher/Collapse/main/Docs/Imgs/CollapseLauncherIdolType.png"/><br/>
-  <img src="https://raw.githubusercontent.com/neon-nyan/CollapseLauncher-Page/main/images/NewBannerv2_color.webp"/>
+  <img src="https://raw.githubusercontent.com/CollapseLauncher/.github/main/profile/NewBannerv2_Banner_color_20240615.webp"/>
 </p>
 
 ##### GI Nahida Background Credit: [Rafa on Pixiv](https://www.pixiv.net/en/users/3970196)
