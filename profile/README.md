@@ -26,6 +26,8 @@ Project Details :
     > Global, Mainland China, Bilibili
 3. Honkai: Star Rail
     > Global, Mainland China, Bilibili
+4. Zenless Zone Zero
+    > Global, Mainland China
 
 ### List of Features
 1. Game installation, preload, update, and patch (smaller update for Honkai Impact 3rd available)
