@@ -23,11 +23,12 @@ Project Details :
 1. Honkai Impact 3rd
     > Global, SEA, Mainland China, TW/HK/MO, Korea, and Japan
 2. Genshin Impact
-    > Global, Mainland China, Bilibili
+    > Global, Mainland China, Bilibili, Google Play (Global)
 3. Honkai: Star Rail
     > Global, Mainland China, Bilibili
 4. Zenless Zone Zero
     > Global, Mainland China
+> For more comprehensive feature support table, [go here](https://github.com/CollapseLauncher/Collapse#supported-features)
 
 ### List of Features
 1. Game installation, preload, update, and patch (smaller update for Honkai Impact 3rd available)
