@@ -86,7 +86,7 @@ This project **IS NOT AFFILIATED** with [**miHoYo (miHoYo Co., Ltd.)**](https://
 4. Sentry for providing us with error collection platform!
 <p align=center>
 	<a href="https://sentry.io/about/">
- 		<img src="https://raw.githubusercontent.com/CollapseLauncher/.github/profile/sentry-wordmark-light-400x119.png" alt="SignPath Logo" height=50 />
+ 		<img src="https://raw.githubusercontent.com/CollapseLauncher/.github/main/profile/sentry-wordmark-light-400x119.png" alt="Sentry Logo" height=50 />
 	</a>
 </p>
 
