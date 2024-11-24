@@ -83,10 +83,12 @@ This project **IS NOT AFFILIATED** with [**miHoYo (miHoYo Co., Ltd.)**](https://
 	</a>
 </p>
 
+4. Sentry for providing us with error collection platform!
+
 
 # Code Signing Policy
 > Free code signing provided by [SignPath.io], certificate by [SignPath Foundation]
-- This program will not transfer any information to other networked systems.
+- This program will only transfer user data to user configured database server. Exception data will be sent to [Sentry.io] for error tracking purposes (user are able to disable the behavior in App Settings).
 - Read our full [**Privacy Policy**](https://github.com/CollapseLauncher/Collapse/blob/main/PRIVACY.md)
 - Also read our [**Third Party Notices**](https://github.com/CollapseLauncher/Collapse/blob/main/THIRD_PARTY_NOTICES.md) for license used by third party libraries that we use.
 
