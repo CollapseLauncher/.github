@@ -92,10 +92,11 @@ This project **IS NOT AFFILIATED** with [**miHoYo (miHoYo Co., Ltd.)**](https://
 
 5. DigitalOcean for providing us their cloud platform credits!
 <p align=center>
-	<a href="https://www.digitalocean.com/">
+	<a href="https://m.do.co/c/ce777a3ed198">
  		<img src="https://raw.githubusercontent.com/CollapseLauncher/.github/main/profile/digitalocean.svg" alt="DigitalOcean Logo" height=50 />
 	</a>
 </p>
+P.S The image contains referral link
 
 # Code Signing Policy
 > Free code signing provided by [SignPath.io], certificate by [SignPath Foundation]
