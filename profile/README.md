@@ -98,6 +98,13 @@ This project **IS NOT AFFILIATED** with [**miHoYo (miHoYo Co., Ltd.)**](https://
 </p>
 P.S The image contains referral link
 
+6. Datadog for providing us their data observability platform!
+<p align=center>
+	<a href="https://www.datadoghq.com/">
+ 		<img src="https://raw.githubusercontent.com/CollapseLauncher/.github/main/profile/dd_logo_h_white.svg" alt="Datadog Logo" height=50 />
+	</a>
+</p>
+
 # Code Signing Policy
 > Free code signing provided by [SignPath.io], certificate by [SignPath Foundation]
 - This program will only transfer user data to user configured database server. Exception data will be sent to [Sentry.io] for error tracking purposes (user are able to disable the behavior in App Settings).
@@ -121,6 +128,7 @@ P.S The image contains referral link
         <img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FCollapseLauncher%2FHi3Helper.Sophon.svg?type=large&issueType=license" alt="Sophon FOSSA Status" width=280/>
     </a>
 </p>
+
 
 
 
